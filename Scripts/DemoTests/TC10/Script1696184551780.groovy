@@ -23,11 +23,12 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/aut
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/p_Username  Admin'))
 
-WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Username_username'), 'Admin')
+WebUI.setText(findTestObject('Page_OrangeHRM/input_Username_username'), 'Admin')
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/p_Password  admin123'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Email_oxd-input oxd-input--focus oxd-_252afc'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Email_oxd-input oxd-input--focus oxd-_252afc'), 
+    'hUKwJTbofgPU9eVlw/CnDQ==')
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
