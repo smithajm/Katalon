@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Minnie  It was a few months ago, but can _5b230b</name>
+   <tag></tag>
+   <elementGuidId>6e005c0b-e1ee-462a-99f9-b1a9cce59251</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/article/div/div[2]/p[18]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5c881cd0-d78d-4611-8572-51d1ac6d3d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p3</value>
+      <webElementGuid>fd84562f-7765-495b-8450-10d581169a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Minnie – It was a few months ago, but can I tell you the details later? Can we focus on OAuth? I don’t have all day to roam around in your car.</value>
+      <webElementGuid>11d42f93-4774-4cae-ad48-fe78214704df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/article[@class=&quot;post-4456 post type-post status-publish format-standard category-mickey-and-minnie-stories tag-explain-oauth-with-example tag-how-oauth-works tag-oauth-analogy tag-oauth-for-beginners tag-what-is-oauth&quot;]/div[@class=&quot;entry-box clearfix&quot;]/div[@class=&quot;entry&quot;]/p[@class=&quot;p3&quot;]</value>
+      <webElementGuid>a5abac91-a0a0-4cb5-b1d2-6c9e53a283ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/article/div/div[2]/p[18]</value>
+      <webElementGuid>539a01c8-8195-47cc-904a-75054b091354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mickey'])[6]/following::p[1]</value>
+      <webElementGuid>7a858ae0-eb6a-4cd2-aca3-4ea26f808f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[18]</value>
+      <webElementGuid>a3b0b395-da4c-4a9e-9e05-2969759ece1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Minnie – It was a few months ago, but can I tell you the details later? Can we focus on OAuth? I don’t have all day to roam around in your car.' or . = 'Minnie – It was a few months ago, but can I tell you the details later? Can we focus on OAuth? I don’t have all day to roam around in your car.')]</value>
+      <webElementGuid>1548b89b-7793-4405-8532-3d60601eca56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

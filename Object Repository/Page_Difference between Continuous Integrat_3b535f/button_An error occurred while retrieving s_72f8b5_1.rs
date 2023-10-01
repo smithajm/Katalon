@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_An error occurred while retrieving s_72f8b5_1</name>
+   <tag></tag>
+   <elementGuidId>9b831978-b3cb-465c-b006-cb39e69955c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ytp-play-button.ytp-button.ytp-play-button-playlist</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='movie_player']/div[38]/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30c85713-cb8f-4856-9a78-7c48bb67c01b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ytp-play-button ytp-button ytp-play-button-playlist</value>
+      <webElementGuid>6f76091b-4f62-4df4-afe8-8fee745818ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-keyshortcuts</name>
+      <type>Main</type>
+      <value>k</value>
+      <webElementGuid>762d939b-a552-4393-ab9b-411e5f342440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-title-no-tooltip</name>
+      <type>Main</type>
+      <value>Pause</value>
+      <webElementGuid>4b87f717-b461-4ce3-845e-855446fd29cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Pause keyboard shortcut k</value>
+      <webElementGuid>2ffd0722-abe8-40df-94e1-c3574ac34a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;movie_player&quot;)/div[@class=&quot;ytp-chrome-bottom ytp-volume-slider-active&quot;]/div[@class=&quot;ytp-chrome-controls&quot;]/div[@class=&quot;ytp-left-controls&quot;]/button[@class=&quot;ytp-play-button ytp-button ytp-play-button-playlist&quot;]</value>
+      <webElementGuid>47010ca0-9216-4886-abf2-29c8c47b47b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='movie_player']/div[38]/div[2]/div/button</value>
+      <webElementGuid>192f8a74-7789-40b0-a6bc-ccef6ca3de61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='An error occurred while retrieving sharing information. Please try again later.'])[1]/following::button[3]</value>
+      <webElementGuid>fa5680b8-d220-4d16-8526-623038c04c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Include playlist'])[1]/following::button[3]</value>
+      <webElementGuid>43a35bc3-e178-4acd-9447-effdc037107f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::button[2]</value>
+      <webElementGuid>acdf3758-ceb4-4909-a7ef-8491bc5a242e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='•'])[18]/preceding::button[2]</value>
+      <webElementGuid>e27f2748-4a14-432a-833f-3b67cbad455b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>0c14f540-befe-4a92-8ed8-0ed43d47eeb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Step 1 The Photo Printing application _0f9b45</name>
+   <tag></tag>
+   <elementGuidId>55949f7a-6d8d-459d-b0e7-db4fcd7bc600</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/article/div/div[2]/p[53]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>099c7170-7060-4cf6-9a20-b5836a003bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Step 1: The Photo Printing application will ask Google drive to get access to your photos</value>
+      <webElementGuid>91c90508-3b49-4d45-ab14-ce6cc3e42722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/article[@class=&quot;post-4456 post type-post status-publish format-standard category-mickey-and-minnie-stories tag-explain-oauth-with-example tag-how-oauth-works tag-oauth-analogy tag-oauth-for-beginners tag-what-is-oauth&quot;]/div[@class=&quot;entry-box clearfix&quot;]/div[@class=&quot;entry&quot;]/p[53]/span[1]</value>
+      <webElementGuid>8888beb4-2698-421b-96bc-137d509c4e28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/article/div/div[2]/p[53]/span</value>
+      <webElementGuid>5ae2a713-856d-439b-a5e5-9cabc87a1541</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='So here, there are the 4 steps involved:'])[1]/following::span[1]</value>
+      <webElementGuid>1b755859-88ef-4928-846b-1b3d84857552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mickey'])[20]/following::span[2]</value>
+      <webElementGuid>432036d0-6d2d-447f-9755-ebafb94eae19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step 2'])[1]/preceding::span[2]</value>
+      <webElementGuid>233db7f8-4dd0-41bd-b9f1-b6548993a1cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)=': The Photo Printing application will ask Google drive to get access to your photos']/parent::*</value>
+      <webElementGuid>5337b626-8d09-46a0-921b-e31a2dda15b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[53]/span</value>
+      <webElementGuid>ca7145ce-a14b-4fe5-9d0f-3c1748d04e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Step 1: The Photo Printing application will ask Google drive to get access to your photos' or . = 'Step 1: The Photo Printing application will ask Google drive to get access to your photos')]</value>
+      <webElementGuid>0d763171-e437-4dca-8b08-005dff4d9262</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

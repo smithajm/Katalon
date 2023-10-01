@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_OAuthis anopen standardfor access delega_d87852</name>
+   <tag></tag>
+   <elementGuidId>d3a68905-4a81-4ca4-949c-328d0113fd0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>em</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/article/div/div[2]/p[15]/span/em</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>e8271a31-281b-4395-a88f-243edaf761fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>OAuth is an open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords</value>
+      <webElementGuid>8d4cb3cb-c307-41c7-b927-ba0ddf376c5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/article[@class=&quot;post-4456 post type-post status-publish format-standard category-mickey-and-minnie-stories tag-explain-oauth-with-example tag-how-oauth-works tag-oauth-analogy tag-oauth-for-beginners tag-what-is-oauth&quot;]/div[@class=&quot;entry-box clearfix&quot;]/div[@class=&quot;entry&quot;]/p[@class=&quot;p5&quot;]/span[1]/em[1]</value>
+      <webElementGuid>fe6e2044-22bd-4b41-9136-d24828425d69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/article/div/div[2]/p[15]/span/em</value>
+      <webElementGuid>d659ca0f-b0f0-406a-9aef-3d84cdddfffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='“'])[1]/following::em[1]</value>
+      <webElementGuid>832d0d0a-17e9-47d6-a767-c98d3bd0562f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mickey'])[5]/following::em[1]</value>
+      <webElementGuid>de4ec65c-5d14-4711-845c-8abd547af00a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='”'])[1]/preceding::em[1]</value>
+      <webElementGuid>8fd86088-d09e-4c5f-8816-a08461d0951e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//em</value>
+      <webElementGuid>b80b58ea-6c40-407b-87bf-98a1e95a3594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//em[(text() = 'OAuth is an open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords' or . = 'OAuth is an open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords')]</value>
+      <webElementGuid>205876d7-785f-467c-948d-0d0c909e5ca6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

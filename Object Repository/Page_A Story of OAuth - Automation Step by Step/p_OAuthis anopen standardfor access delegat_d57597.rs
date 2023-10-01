@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_OAuthis anopen standardfor access delegat_d57597</name>
+   <tag></tag>
+   <elementGuidId>f1908bd2-ab02-4e29-8633-bbaffd91d7b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.p5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/article/div/div[2]/p[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dc3c61e7-23a0-4b83-a3c1-3193271aeaba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p5</value>
+      <webElementGuid>db997efc-9d7c-4ef6-906e-7ab38a6d34f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>“OAuth is an open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords”</value>
+      <webElementGuid>68e1464c-a614-4552-8ea5-cee39fd36b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/article[@class=&quot;post-4456 post type-post status-publish format-standard category-mickey-and-minnie-stories tag-explain-oauth-with-example tag-how-oauth-works tag-oauth-analogy tag-oauth-for-beginners tag-what-is-oauth&quot;]/div[@class=&quot;entry-box clearfix&quot;]/div[@class=&quot;entry&quot;]/p[@class=&quot;p5&quot;]</value>
+      <webElementGuid>0333da4f-9c81-4799-8e6a-f15697d267b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/article/div/div[2]/p[15]</value>
+      <webElementGuid>94b6749f-b2c8-47b7-8b75-4d1ad7835b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mickey'])[5]/following::p[1]</value>
+      <webElementGuid>78646a37-8adc-40de-8d32-7adc79cc743b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[15]</value>
+      <webElementGuid>c7c8cdf2-65ee-477a-8e1e-a0043d628005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '“OAuth is an open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords”' or . = '“OAuth is an open standard for access delegation, commonly used as a way for Internet users to grant websites or applications access to their information on other websites but without giving them the passwords”')]</value>
+      <webElementGuid>f67148c7-f83f-48ff-a8ab-6d24ddcb56f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

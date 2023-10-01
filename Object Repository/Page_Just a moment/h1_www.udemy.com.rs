@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_www.udemy.com</name>
+   <tag></tag>
+   <elementGuidId>f0ca9537-6463-4d71-9f52-9429f81c3810</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.zone-name-title.h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Checking if the site connection is secure'])[1]/preceding::h1[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>b6eca3fa-a3b0-4cf4-a798-2b7c25d3e970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>zone-name-title h1</value>
+      <webElementGuid>b429a991-ab83-4a4d-b9e7-c89fc80cda30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>www.udemy.com</value>
+      <webElementGuid>49b278c3-23af-4c32-99cc-291913b0967f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;lang-en&quot;]/body[@class=&quot;no-js&quot;]/div[@class=&quot;main-wrapper&quot;]/div[@class=&quot;main-content&quot;]/h1[@class=&quot;zone-name-title h1&quot;]</value>
+      <webElementGuid>a51502aa-97f1-46af-9146-76e9ac306c7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checking if the site connection is secure'])[1]/preceding::h1[1]</value>
+      <webElementGuid>aca4d476-1068-47c7-a76b-088d76fe7cca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.udemy.com needs to review the security of your connection before proceeding.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>400b52b8-2383-402d-8c72-086346afdf94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>2aed10ef-c218-42ee-98d6-77eae092914a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'www.udemy.com' or . = 'www.udemy.com')]</value>
+      <webElementGuid>289e1a35-c018-4302-b608-34f8d4d48c98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

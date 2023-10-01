@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Katalon docs</name>
+   <tag></tag>
+   <elementGuidId>678731dd-dffe-41f1-85f8-b94cd635c544</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b.navbar__title.text--truncate</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus']/nav/div/div/a/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>426c4861-cfa4-4891-938a-39ea2a831216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar__title text--truncate</value>
+      <webElementGuid>b9ffdd99-b005-4511-b2bf-f5ff52f5d361</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalon docs</value>
+      <webElementGuid>365c9ecd-cbf9-4266-9149-aaca495ececb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus&quot;)/nav[@class=&quot;navbar navbar--fixed-top&quot;]/div[@class=&quot;navbar__inner&quot;]/div[@class=&quot;navbar__items&quot;]/a[@class=&quot;navbar__brand&quot;]/b[@class=&quot;navbar__title text--truncate&quot;]</value>
+      <webElementGuid>493e64e9-dd14-48fa-b0b0-94a2095a8063</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus']/nav/div/div/a/b</value>
+      <webElementGuid>a4a4b78f-7a20-40d0-85a5-d216a886d4c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::b[1]</value>
+      <webElementGuid>08a6ed4b-208d-480d-aae4-84d1b6826c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/preceding::b[1]</value>
+      <webElementGuid>7a6b64c7-4838-4a9b-b85d-8b89d14773c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Katalon docs']/parent::*</value>
+      <webElementGuid>39457079-5966-4147-af11-0916cb89928f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>df9fa3a3-a654-4c95-a773-4367f9147afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Katalon docs' or . = 'Katalon docs')]</value>
+      <webElementGuid>fcda8395-fe15-4fe2-aba3-16b04a891479</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

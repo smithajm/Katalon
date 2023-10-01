@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mickey  So the process of this Authori_596b53</name>
+   <tag></tag>
+   <elementGuidId>df7b131b-2d3d-459a-a2ef-b3ce7c5f1d57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/article/div/div[2]/p[59]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0ead0543-1836-4490-9fb1-c1250425b9b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mickey – So the process of this Authorization is done based on an open standard protocol called OAuth</value>
+      <webElementGuid>7c89257f-7457-433e-ae5e-73d5669b7271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/article[@class=&quot;post-4456 post type-post status-publish format-standard category-mickey-and-minnie-stories tag-explain-oauth-with-example tag-how-oauth-works tag-oauth-analogy tag-oauth-for-beginners tag-what-is-oauth&quot;]/div[@class=&quot;entry-box clearfix&quot;]/div[@class=&quot;entry&quot;]/p[@class=&quot;p3&quot;]/span[1]</value>
+      <webElementGuid>0420086f-c0d4-4ec0-8866-5436717d71f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/article/div/div[2]/p[59]/span</value>
+      <webElementGuid>768295bb-5a9a-4570-a261-2e1296849370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minnie'])[22]/following::span[1]</value>
+      <webElementGuid>007ef513-5140-4f28-b41f-3c2cef500a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='– So the process of this Authorization is done based on an open standard protocol called']/parent::*</value>
+      <webElementGuid>b7f3a9ba-e278-4aa2-9e3d-da14076318b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[59]/span</value>
+      <webElementGuid>48feb47b-8da7-4d3c-9a47-b6c786fd6572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mickey – So the process of this Authorization is done based on an open standard protocol called OAuth' or . = 'Mickey – So the process of this Authorization is done based on an open standard protocol called OAuth')]</value>
+      <webElementGuid>1d4e41a0-4f49-4dbb-baf8-7af8aebd5ec8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

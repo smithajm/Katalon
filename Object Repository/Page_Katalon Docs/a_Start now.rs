@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Start now</name>
+   <tag></tag>
+   <elementGuidId>84a157ee-e951-4a85-a11a-29a9458aedff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.navbar__item.navbar__link.bar-items-download</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus']/nav/div/div[2]/a[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6ca46977-98b2-4757-94b0-facbd7a39a54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://katalon.com/sign-up</value>
+      <webElementGuid>22f5c257-9f1f-4b95-b8cd-d059f0515af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>21a713dc-790d-46f3-8d33-53e990f48372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>noopener noreferrer</value>
+      <webElementGuid>bd7f3f13-a7b5-446c-8f79-849e09bf8c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar__item navbar__link bar-items-download</value>
+      <webElementGuid>7c6eb651-65a1-4741-9724-b03112134ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start now</value>
+      <webElementGuid>a193f8cc-3760-4254-95b1-a7db687975aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus&quot;)/nav[@class=&quot;navbar navbar--fixed-top&quot;]/div[@class=&quot;navbar__inner&quot;]/div[@class=&quot;navbar__items navbar__items--right&quot;]/a[@class=&quot;navbar__item navbar__link bar-items-download&quot;]</value>
+      <webElementGuid>035574b5-b18f-4ff6-8986-e25c8756ff32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus']/nav/div/div[2]/a[3]</value>
+      <webElementGuid>e9a967a4-d72d-41bd-a778-8eefd5d47285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Start now')]</value>
+      <webElementGuid>4e52f335-94c2-4aad-b097-e8c21dcb8fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academy'])[1]/following::a[1]</value>
+      <webElementGuid>86ba774b-5479-4e17-92db-1f0f35f68993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community'])[1]/following::a[2]</value>
+      <webElementGuid>bc8952b0-96ba-4231-8885-1fbf396d7f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon docs'])[2]/preceding::a[1]</value>
+      <webElementGuid>c562552a-43ee-4e28-9b02-45d1f8c60724</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/preceding::a[1]</value>
+      <webElementGuid>c626fec7-ccb7-41d0-a8e9-0c1b4a053a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start now']/parent::*</value>
+      <webElementGuid>cba63679-217e-4039-8976-fb3a29c76886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://katalon.com/sign-up')]</value>
+      <webElementGuid>024bfa73-aa10-4d00-9221-af970a98f313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>ce83fc77-ff36-4975-876f-737df4542740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://katalon.com/sign-up' and (text() = 'Start now' or . = 'Start now')]</value>
+      <webElementGuid>2f06ce87-3147-4c35-be9c-7b3627442d2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

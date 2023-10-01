@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Show Me</name>
+   <tag></tag>
+   <elementGuidId>9cea64b1-064d-45a9-9167-3968edd02de9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.wpfront-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wpfront-notification-bar']/table/tbody/tr/td/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>239b7747-00dc-49c6-9937-d37797fc73da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wpfront-button</value>
+      <webElementGuid>62bf6565-e3aa-409a-ba26-0c3aab458c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://automationstepbystep.com/stories/</value>
+      <webElementGuid>77f65147-7331-4755-8f6d-95ea58cd02b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>8e1be251-e288-4402-9036-8595f229d5c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show Me</value>
+      <webElementGuid>c4be8c93-15c7-4797-98cf-27cf594b28f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wpfront-notification-bar&quot;)/table[1]/tbody[1]/tr[1]/td[1]/div[2]/a[@class=&quot;wpfront-button&quot;]</value>
+      <webElementGuid>c8839113-1a78-49eb-afc6-addef2a4d706</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wpfront-notification-bar']/table/tbody/tr/td/div[2]/a</value>
+      <webElementGuid>e9f96dfa-d6e2-4d5e-8463-ba080eaeb92f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Show Me')]</value>
+      <webElementGuid>aa4d9c3b-0817-4c90-900e-c24794db5264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read this Story'])[1]/following::a[1]</value>
+      <webElementGuid>563462c5-08b3-4d8d-bd3b-8deb368eb698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/following::a[1]</value>
+      <webElementGuid>0c07d247-3f15-4dfc-82ba-7bf5a755650e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Step by Step'])[1]/preceding::a[1]</value>
+      <webElementGuid>f82a6bd4-a5e2-4724-8be8-0f73736c885d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::a[2]</value>
+      <webElementGuid>da0e1a6c-a539-4370-bc73-6cbfa2a4376f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show Me']/parent::*</value>
+      <webElementGuid>3c334b03-cce3-4292-8aed-8441a99e9180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://automationstepbystep.com/stories/')]</value>
+      <webElementGuid>0e52f2a3-0142-480a-9e0c-eb0cacf0af3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>ae3cdf2f-2536-455c-98c3-acce66c8f488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://automationstepbystep.com/stories/' and (text() = 'Show Me' or . = 'Show Me')]</value>
+      <webElementGuid>56b3a509-d974-460f-bbea-5e148338f488</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
