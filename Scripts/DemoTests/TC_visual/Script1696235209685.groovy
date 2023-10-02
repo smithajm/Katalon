@@ -33,3 +33,5 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/butto
 
 WebUI.takeScreenshotAsCheckpoint('appointment confirmation')
 
+WebUI.closeBrowser()
+
