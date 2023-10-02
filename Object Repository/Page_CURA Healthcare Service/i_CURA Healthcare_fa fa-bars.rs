@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>78db0ae5-816f-4e4e-9837-279937efb01f</webElementGuid>
+      <webElementGuid>a7472d7f-c58d-45da-b53d-cdf68841a4de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-bars</value>
-      <webElementGuid>c3d9b43b-ffd9-495f-bd68-802987bf895b</webElementGuid>
+      <webElementGuid>369a9d36-4e14-4351-ab0d-6c657e55b7b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;menu-toggle&quot;)/i[@class=&quot;fa fa-bars&quot;]</value>
-      <webElementGuid>bf18c159-9194-4c2e-8228-37dff35722bb</webElementGuid>
+      <webElementGuid>bca796bb-c170-4652-bfe8-3d913f604709</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='menu-toggle']/i</value>
-      <webElementGuid>d1faa611-95a0-4cc5-b086-92b1e10e2c49</webElementGuid>
+      <webElementGuid>8fce5a7f-56d6-4db3-aff3-a5be9aa0955d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare'])[1]/preceding::i[2]</value>
+      <webElementGuid>e67ca27b-a922-4880-9d03-6f19ffe89b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::i[2]</value>
+      <webElementGuid>31eaf607-9f1d-484d-a1ab-0b8b34a7228b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +70,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>cab424c2-a011-4389-ad46-134beb68c74a</webElementGuid>
+      <webElementGuid>fd7c5546-b651-4f13-930a-fb45e258f6c1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
